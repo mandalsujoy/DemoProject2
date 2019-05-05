@@ -6,6 +6,7 @@ public class Class3 {
 		
 		System.out.println("created from PC2");
 		System.out.println("doing some update from PC1");
+		System.out.println("doing some update from PC2");
 
 	}
 
